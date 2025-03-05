@@ -1,0 +1,17 @@
+h2	{
+	font-size: 50px;
+	color: #ggf45r;
+	text-indent: 50px;
+	text-decoration: none;
+	text-transform: none;
+	letter-spacing: 5px;
+}
+
+h3 {
+	font-size: 50px;
+	color: #005d3e;
+	text-indent: 50px;
+	text-decoration: underline;
+	text-transform: lowercase;
+	word-spacing: 15px;
+}

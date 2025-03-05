@@ -1,0 +1,27 @@
+h2	{
+	font-size: 50px;
+	color: #ggf45r;
+	text-indent: 50px;
+	text-decoration: none;
+}
+
+h3 {
+	font-size: 50px;
+	color: #005d3e;
+	text-indent: 50px;
+	text-decoration: underline;
+}
+
+h4 {
+	font-size: 50px;
+	color: #hght06y;
+	text-indent: 50px;
+	text-decoration: overline;
+}
+
+h5 {
+	font-size: 50px;
+	color: #09frt3;
+	text-indent: 50px;
+	text-decoration: line-through;
+}
